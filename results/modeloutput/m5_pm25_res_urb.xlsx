@@ -1,0 +1,4 @@
+"","Beta","model","out","exposure"
+"park",-0.0212600279785854,"model pm25","res","park"
+"ndvi_summer",0.0585677917080454,"model pm25","res","ndvi_summer"
+"occur_bs_1000m",0.0344503007150471,"model pm25","res","occur_bs_1000m"

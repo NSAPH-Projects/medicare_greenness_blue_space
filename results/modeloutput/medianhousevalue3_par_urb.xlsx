@@ -1,0 +1,4 @@
+"","Beta","model","out","strata","exposure"
+"park",-0.012127727274167,"model 5","par","q_medianhousevalue 3","park"
+"ndvi_summer",-0.234398423687972,"model 5","par","q_medianhousevalue 3","ndvi_summer"
+"as.factor(occur_bs_1000m_bin)1",-0.0215299191650372,"model 5","par","q_medianhousevalue 3","as.factor(occur_bs_1000m_bin)1"

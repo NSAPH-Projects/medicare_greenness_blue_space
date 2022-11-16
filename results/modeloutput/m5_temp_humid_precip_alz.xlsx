@@ -1,0 +1,4 @@
+"","Beta","model","out","exposure"
+"park",0.00774512272605894,"model temp humid precip","alz","park"
+"ndvi_summer",-0.164195800906574,"model temp humid precip","alz","ndvi_summer"
+"occur_bs_1000m",-0.150759356265196,"model temp humid precip","alz","occur_bs_1000m"

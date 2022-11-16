@@ -1,0 +1,4 @@
+"","Beta","model","out","strata","exposure"
+"park",-0.0163713425504613,"model 5","par","q_medhouseholdincome 3","park"
+"ndvi_summer",-0.239508367620793,"model 5","par","q_medhouseholdincome 3","ndvi_summer"
+"as.factor(occur_bs_1000m_bin)1",-0.0234795082971499,"model 5","par","q_medhouseholdincome 3","as.factor(occur_bs_1000m_bin)1"
