@@ -1,0 +1,4 @@
+"","Beta","model","out","exposure"
+"park",-0.169501630576017,"model blue no buffer","par","park"
+"ndvi_summer",-0.191701834624007,"model blue no buffer","par","ndvi_summer"
+"as.factor(occur_bs_bin)1",-0.0306880553033606,"model blue no buffer","par","as.factor(occur_bs_bin)1"

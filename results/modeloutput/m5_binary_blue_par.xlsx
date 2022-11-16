@@ -1,0 +1,4 @@
+"","Beta","model","out","exposure"
+"park",-0.1725791194655,"model binary blue space","par","park"
+"ndvi_summer",-0.196583816716686,"model binary blue space","par","ndvi_summer"
+"as.factor(occur_bs_1000m_bin)1",-0.0317606206174848,"model binary blue space","par","as.factor(occur_bs_1000m_bin)1"
