@@ -1,0 +1,4 @@
+"","Beta","model","out","region","exposure"
+"park",0.0028182392488824,"model 4","par","West","park"
+"ndvi_summer",-0.338628413299067,"model 4","par","West","ndvi_summer"
+"as.factor(occur_bs_1000m_bin)1",-0.0511030570275084,"model 4","par","West","as.factor(occur_bs_1000m_bin)1"

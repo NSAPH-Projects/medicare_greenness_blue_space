@@ -1,0 +1,4 @@
+"","Beta","model","out","strata","exposure"
+"park",-0.0673626281413574,"model 5","par","sex 1","park"
+"ndvi_summer",-0.17625723462133,"model 5","par","sex 1","ndvi_summer"
+"as.factor(occur_bs_1000m_bin)1",-0.0158445402841523,"model 5","par","sex 1","as.factor(occur_bs_1000m_bin)1"
