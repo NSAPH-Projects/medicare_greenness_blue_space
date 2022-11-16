@@ -1,0 +1,4 @@
+"","se","model","region","out","exposure"
+"se_park",0.0356914801273271,"model 5","west","res","park"
+"se_ndvi",0.0601689216251105,"model 5","west","res","ndvi_summer"
+"se_bs",0.0619037733536107,"model 5","west","res","occur_bs_1000m"

@@ -1,0 +1,4 @@
+"","se","model","quintile","out","exposure"
+"se_park",0.0286122205784536,"model 5","q_poverty 1","res","park"
+"se_ndvi",0.0350599456296719,"model 5","q_poverty 1","res","ndvi_summer"
+"se_bs",0.0344285154969432,"model 5","q_poverty 1","res","occur_bs_1000m"

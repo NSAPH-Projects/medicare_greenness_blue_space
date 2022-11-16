@@ -1,0 +1,4 @@
+"","se","model","out","exposure"
+"se_park",0.0257425448032996,"model temp humid precip","alz","park"
+"se_ndvi",0.0274185675753415,"model temp humid precip","alz","ndvi_summer"
+"se_bs",0.0057125921401315,"model temp humid precip","alz","as.factor(occur_bs_1000m_bin)1"
