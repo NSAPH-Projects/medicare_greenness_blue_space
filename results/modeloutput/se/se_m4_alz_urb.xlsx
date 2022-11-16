@@ -1,0 +1,4 @@
+"","se","model","out","exposure"
+"se_park",0.0256123152646869,"model 4","alz","park"
+"se_ndvi",0.0290708228002775,"model 4","alz","ndvi_summer"
+"se_bs",0.00523067689621363,"model 4","alz","as.factor(occur_bs_1000m_bin)1"

@@ -1,0 +1,4 @@
+"","se","model","quintile","out","exposure"
+"se_park",0.0205291429536073,"model 5","q_medianhousevalue 2","cvd","park"
+"se_ndvi",0.0242169996394986,"model 5","q_medianhousevalue 2","cvd","ndvi_summer"
+"se_bs",0.0223541560162207,"model 5","q_medianhousevalue 2","cvd","occur_bs_1000m"
