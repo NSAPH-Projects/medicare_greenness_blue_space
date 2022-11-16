@@ -1,0 +1,4 @@
+"","se","model","strata","out","exposure"
+"se_park",0.0357377297494084,"model 5","age 75","par","park"
+"se_ndvi",0.0384240714348111,"model 5","age 75","par","ndvi_summer"
+"se_bs",0.00772496076808338,"model 5","age 75","par","as.factor(occur_bs_1000m_bin)1"

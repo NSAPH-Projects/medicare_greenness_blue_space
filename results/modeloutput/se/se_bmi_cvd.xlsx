@@ -1,0 +1,4 @@
+"","se","model","out","exposure"
+"se_park",0.00825252968108499,"model bmi","cvd","park"
+"se_ndvi",0.0116769327734417,"model bmi","cvd","ndvi_summer"
+"se_bs",0.0162036353678542,"model bmi","cvd","occur_bs_1000m"
