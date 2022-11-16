@@ -1,0 +1,4 @@
+"","Beta","model","out","strata","exposure"
+"park",-0.00612026183486327,"model 5","cvd","q_poverty 1","park"
+"ndvi_summer",-0.177074723561265,"model 5","cvd","q_poverty 1","ndvi_summer"
+"occur_bs_1000m",-0.0289292490190225,"model 5","cvd","q_poverty 1","occur_bs_1000m"
